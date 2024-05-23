@@ -2,7 +2,7 @@ var swiper = new Swiper('.product-slider', {
         spaceBetween: 30,
         effect: 'fade',
         // initialSlide: 2,
-        loop: true,
+        loop: false,
         navigation: {
             nextEl: '.next',
             prevEl: '.prev'
