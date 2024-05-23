@@ -3,7 +3,6 @@ var swiper = new Swiper('.product-slider', {
         effect: 'fade',
         // initialSlide: 2,
         loop: true,
-        auto: true,
         navigation: {
             nextEl: '.next',
             prevEl: '.prev'
